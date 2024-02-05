@@ -1,3 +1,4 @@
+<div style="background-color: black">
 <h1 align="center">Hi 👋, I'm Slayde Sequeira</h1>
 <h3 align="center">A passionate android and web developer from India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=slaydesequeira&label=Profile%20views&color=0eb418&style=plastic" alt="slaydesequeira" /> </p>
@@ -28,4 +29,5 @@
 </p>
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slaydesequeira&show_icons=true&locale=en&layout=compact" alt="slaydesequeira" /></p>
+</div>
 </div>
