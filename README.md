@@ -29,5 +29,9 @@
 </p>
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slaydesequeira&show_icons=true&locale=en&layout=compact" alt="slaydesequeira" /></p>
+    <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=slaydesequeira" alt="GitHub Streak" />
+  </div>
 </div>
+  
 </div>
