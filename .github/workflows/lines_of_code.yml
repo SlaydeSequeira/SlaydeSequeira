@@ -21,6 +21,7 @@ jobs:
         id: cloc
         run: |
           cloc --json . > cloc.json
+          cat cloc.json  # Debugging output
           echo "::set-output name=total_lines::$(jq '.sum.code' cloc.json)"
 
       - name: Create/update README with total lines
@@ -30,7 +31,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "Update total lines of code"
+          git commit -m "Update total lines of code" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
