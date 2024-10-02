@@ -30,6 +30,7 @@
 </p>
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slaydesequeira&show_icons=true&locale=en&layout=compact" alt="slaydesequeira" /></p>
+<img src="https://raw.githubusercontent.com/SlaydeSequeira/SlaydeSequeira/output/snake.svg" alt="Snake animation" />
 
 </div>
   
