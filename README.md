@@ -39,7 +39,6 @@
 </div>
 <div align="center">
       <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slaydesequeira&show_icons=true&locale=en&layout=compact" alt="slaydesequeira" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=slaydesequeira&theme=blue-green&hide_border=false&include_all_commits=true&hide_title=true" alt="slaydesequeira" /></p>
-  <img src="https://github.com/SlaydeSequeira/SlaydeSequeira/blob/main/dist/snake.svg" alt="Snake animation" />
+    <img src="https://github.com/SlaydeSequeira/SlaydeSequeira/blob/main/dist/snake.svg" alt="Snake animation" />
 </div>
 
