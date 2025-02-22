@@ -1,4 +1,5 @@
 <div style="background-color: black">
+<div style="background-color: black">
 <h1 align="center">Hi 👋, I'm Slayde Sequeira</h1>
 <h3 align="center">An android and web developer from India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=slaydesequeira&label=Profile%20views%20overall&color=FF0000&style=plastic&base=9728" alt="slaydesequeira" /> </p>
@@ -125,4 +126,5 @@
     </td>
   </tr>
 </table>
+</div>
 
