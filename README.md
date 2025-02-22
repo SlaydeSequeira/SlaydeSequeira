@@ -41,4 +41,31 @@
       <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slaydesequeira&show_icons=true&locale=en&layout=compact" alt="slaydesequeira" /></p>
     <img src="https://github.com/SlaydeSequeira/SlaydeSequeira/blob/main/dist/snake.svg" alt="Snake animation" />
 </div>
-
+<h3 align="center">🏆 Featured Achievement: S.P.I.T Hacks 2025 Winner</h3>
+<table align="center">
+  <tr>
+    <td width="60%">
+      <div style="display: flex; justify-content: center; gap: 5px;">
+        <img src="https://firebasestorage.googleapis.com/v0/b/ugiygoji.appspot.com/o/WhatsApp%20Image%202025-02-22%20at%2011.35.13%20AM.jpeg?alt=media&token=4a9f7356-9067-41d4-b8f2-b19ede069d71" alt="S.P.I.T Hacks Winner Badge" style="width: 32%; border-radius: 10px;" />
+        <img src="https://firebasestorage.googleapis.com/v0/b/ugiygoji.appspot.com/o/WhatsApp%20Image%202025-02-22%20at%2011.34.41%20AM.jpeg?alt=media&token=eaead5f7-5b90-4f7d-90d4-d4d766dd3346" alt="S.P.I.T Hacks Team" style="width: 32%; border-radius: 10px;" />
+        <img src="https://firebasestorage.googleapis.com/v0/b/ugiygoji.appspot.com/o/WhatsApp%20Image%202025-02-22%20at%2011.11.57%20AM%20(1).jpeg?alt=media&token=8452d4e9-df8f-4b43-93c0-64861f393ba5" alt="S.P.I.T Hacks Trophy" style="width: 22%; border-radius: 10px;height: 140px" />
+      </div>
+    </td>
+    <td>
+      <div style="text-align: left; padding: 20px;">
+        <h3>🥇 First Place Winner</h3>
+        <p>
+          <strong>Event:</strong> S.P.I.T Hacks 2025<br>
+          <strong>Category:</strong> National Hackathon<br>
+          <strong>Location:</strong> Sardar Patel Institute of Technology, Mumbai<br>
+          <strong>Date:</strong> 2025
+        </p>
+        <div>
+          <a href="https://www.linkedin.com/posts/slayde-sequeira-062660221_hackathon-techinnovation-startup-activity-7294664633070583808-LPGG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADfNvkoB2csgq_RO3DhjTGuhtTAZnWiY7kQ">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"style="width: 10%;"/>
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
