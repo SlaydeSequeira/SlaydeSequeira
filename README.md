@@ -1,7 +1,16 @@
 <div style="background-color: black">
-<h1 align="center">Hi 👋, I'm Slayde Sequeira</h1>
-<h3 align="center">An android and web developer from India</h3>
+  
+  <div align=center >
+    
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1ACD55&center=true&width=435&lines=Hi+I'm+Slayde+Sequeira" alt="Typing SVG" /></a> 
+</div>
+  <div align=center >
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1ACD55&center=true&width=435&lines=An+Android+and+Web+Developer" alt="Typing SVG" /></a>
+</div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=slaydesequeira&label=Profile%20views%20overall&color=FF0000&style=plastic&base=9728" alt="slaydesequeira" /> </p>
+
 <img align="right" alt="coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/basiclogintoapp.appspot.com/o/WhatsApp%20Image%202024-01-29%20at%209.41.34%20PM.jpeg?alt=media&token=4b1d9756-811f-4b9e-aa30-789680a82c9f" />
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,6 +50,8 @@
       <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slaydesequeira&show_icons=true&locale=en&layout=compact" alt="slaydesequeira" /></p>
     <img src="https://github.com/SlaydeSequeira/SlaydeSequeira/blob/main/dist/snake.svg" alt="Snake animation" />
 </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SlaydeSequeira&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true"/>
+
 <h3 align="center">🏆 Featured Achievement: Sun Hacks 2024 International Winner</h3>
 <table align="center">
   <tr>
