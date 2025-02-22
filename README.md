@@ -41,6 +41,36 @@
       <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slaydesequeira&show_icons=true&locale=en&layout=compact" alt="slaydesequeira" /></p>
     <img src="https://github.com/SlaydeSequeira/SlaydeSequeira/blob/main/dist/snake.svg" alt="Snake animation" />
 </div>
+<h3 align="center">🏆 Featured Achievement: Sun Hacks 2024 International Winner</h3>
+<table align="center">
+  <tr>
+    <td width="60%">
+      <div style="display: flex; justify-content: center; gap: 5px;">
+        <img src="https://firebasestorage.googleapis.com/v0/b/ugiygoji.appspot.com/o/WhatsApp%20Image%202025-02-22%20at%2012.03.53%20PM.jpeg?alt=media&token=33989806-fec8-4d0b-821d-959e3e245ebc" alt="Sun Hacks Winner Badge" style="width: 20%; border-radius: 10px;" />
+        <img src="https://firebasestorage.googleapis.com/v0/b/ugiygoji.appspot.com/o/WhatsApp%20Image%202025-02-22%20at%2012.04.36%20PM.jpeg?alt=media&token=8597a0b1-93b4-4cfc-9f6c-3dd28c8559eb" alt="Sun Hacks Team" style="width: 32%; border-radius: 10px;" />
+        <img src="https://firebasestorage.googleapis.com/v0/b/ugiygoji.appspot.com/o/WhatsApp%20Image%202025-02-22%20at%2012.03.15%20PM.jpeg?alt=media&token=fc996783-b40f-4dc1-9720-e79161d9e7a3" alt="Sun Hacks Trophy" style="width: 19%; border-radius: 10px; height: 140px;" />
+      </div>
+    </td>
+    <td>
+      <div style="text-align: left; padding: 20px;">
+        <h3>🥇 First Place Winner</h3>
+        <p>
+          <strong>Event:</strong> Sun Hacks International<br>
+          <strong>Category:</strong> International Hackathon<br>
+          <strong>Location:</strong> Sandip University, Nashik<br>
+          <strong>Date:</strong> 2025
+        </p>
+        <div>
+          <a href="https://www.linkedin.com/posts/slayde-sequeira-062660221_hackathon-activity-7190309163636277249-Tyuc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADfNvkoB2csgq_RO3DhjTGuhtTAZnWiY7kQ">
+            <img src="[https://www.linkedin.com/feed/update/urn:li:activity:7190309163636277249/](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)" style="width: 10%;" />
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
 <h3 align="center">🏆 Featured Achievement: S.P.I.T Hacks 2025 Winner</h3>
 <table align="center">
   <tr>
