@@ -125,5 +125,5 @@
     </td>
   </tr>
 </table>
-<img src="https://github-profile-trophy.vercel.app/?username=SlaydeSequeira&theme=matrix&column=-1&title=MultiLanguage,Repositories,Stars,Commits,Followers,PullRequest,Experience,Issue&margin-w=4" style="filter: grayscale(100%);">
+<img src="https://github-profile-trophy.vercel.app/?username=SlaydeSequeira&theme=matrix&column=-1&title=MultiLanguage,Repositories,Stars,Commits,Followers,PullRequest,Experience,Issue&margin-w=4">
 
