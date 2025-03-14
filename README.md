@@ -139,4 +139,4 @@
 <img src="https://github-profile-trophy.vercel.app/?username=SlaydeSequeira&theme=matrix&column=-1&title=MultiLanguage,Repositories,Stars,Commits,Followers,PullRequest,Experience,Issue&margin-w=4">
 
 ![](https://github-readme-stats.vercel.app/api?username=SlaydeSequeira&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=SlaydeSequeira&theme=dark)
+![](https://streak-stats.demolab.com/?user=SlaydeSequeira&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)
