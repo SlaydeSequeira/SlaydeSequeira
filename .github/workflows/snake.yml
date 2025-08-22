@@ -20,10 +20,15 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
-      - name: Commit and push the snake.svg to the main branch
+      - name: Commit and push the snake.svg to the main branch (if changed)
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add dist/snake.svg
-          git commit -m "Generate snake animation"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Generate snake animation"
+            git push
+          fi
+
