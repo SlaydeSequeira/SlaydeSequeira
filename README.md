@@ -169,3 +169,13 @@
   <img src="https://streak-stats.demolab.com/?user=SlaydeSequeira&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j" />
 </p>
 
+
+<div align="center">
+
+  <a href="https://drive.google.com/uc?export=download&id=1ojfRsKpZsoLxh4kXIyqoD5p21f5jVV_B" target="_blank">
+
+   <img src="https://img.shields.io/badge/View%20Resume-1ACD55?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume" />
+
+  </a>
+
+</div>
