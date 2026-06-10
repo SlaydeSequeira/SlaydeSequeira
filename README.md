@@ -11,7 +11,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=slaydesequeira&label=Profile%20views%20overall&color=FF0000&style=plastic&base=9728" alt="slaydesequeira" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/basiclogintoapp.appspot.com/o/WhatsApp%20Image%202024-01-29%20at%209.41.34%20PM.jpeg?alt=media&token=4b1d9756-811f-4b9e-aa30-789680a82c9f" />
+<img align="right" alt="coding" width="400" src="https://drive.google.com/uc?export=view&id=1_idDBLvirPXNmjRd7FFvEJtF8ZzH4bxE" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -40,26 +40,14 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   
 </p>
-<div align="center" style="width: 200px; overflow: hidden;">
-  <a href="https://holopin.io/@slaydesequeira" target="_blank" rel="noreferrer">
-    <img src="https://holopin.me/slaydesequeira" alt="View my Holopin profile" style="width: auto; height: 100%; object-fit: cover;" />
-  </a>
-
-</div>
-<div align="center">
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slaydesequeira&show_icons=true&locale=en&layout=compact" alt="slaydesequeira" /></p>
-    <img src="https://github.com/SlaydeSequeira/SlaydeSequeira/blob/main/dist/snake.svg" alt="Snake animation" />
-</div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SlaydeSequeira&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true"/>
-
 <h3 align="center">🏆 Featured Achievement: Sun Hacks 2024 International Winner</h3>
 <table align="center">
   <tr>
     <td width="60%">
       <div style="display: flex; justify-content: center; gap: 5px;">
-        <img src="https://firebasestorage.googleapis.com/v0/b/ugiygoji.appspot.com/o/WhatsApp%20Image%202025-02-22%20at%2012.03.53%20PM.jpeg?alt=media&token=33989806-fec8-4d0b-821d-959e3e245ebc" alt="Sun Hacks Winner Badge" style="width: 20%; border-radius: 10px;" />
-        <img src="https://firebasestorage.googleapis.com/v0/b/ugiygoji.appspot.com/o/WhatsApp%20Image%202025-02-22%20at%2012.04.36%20PM.jpeg?alt=media&token=8597a0b1-93b4-4cfc-9f6c-3dd28c8559eb" alt="Sun Hacks Team" style="width: 32%; border-radius: 10px;" />
-        <img src="https://firebasestorage.googleapis.com/v0/b/ugiygoji.appspot.com/o/WhatsApp%20Image%202025-02-22%20at%2012.03.15%20PM.jpeg?alt=media&token=fc996783-b40f-4dc1-9720-e79161d9e7a3" alt="Sun Hacks Trophy" style="width: 20%; border-radius: 10px; " />
+        <img src="https://lh3.googleusercontent.com/d/1dR-1MoIRyc0bRLp3p3Kfi-C91I-30KeL" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="https://lh3.googleusercontent.com/d/1fQkpPCcTcjFpq0BsNnbzl5CB5QJRt0C-" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="https://lh3.googleusercontent.com/d/1itVk0jPz7tDG4EYUGE3UkT20VuM_7BCb" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
       </div>
     </td>
     <td>
@@ -80,15 +68,14 @@
   </tr>
 </table>
 
-
 <h3 align="center">🏆 Featured Achievement: S.P.I.T Hacks 2025 Winner</h3>
 <table align="center">
   <tr>
     <td width="60%">
       <div style="display: flex; justify-content: center; gap: 5px;">
-        <img src="https://firebasestorage.googleapis.com/v0/b/ugiygoji.appspot.com/o/WhatsApp%20Image%202025-02-22%20at%2011.35.13%20AM.jpeg?alt=media&token=4a9f7356-9067-41d4-b8f2-b19ede069d71" alt="S.P.I.T Hacks Winner Badge" style="width: 32%; border-radius: 10px;" />
-        <img src="https://firebasestorage.googleapis.com/v0/b/ugiygoji.appspot.com/o/WhatsApp%20Image%202025-02-22%20at%2011.34.41%20AM.jpeg?alt=media&token=eaead5f7-5b90-4f7d-90d4-d4d766dd3346" alt="S.P.I.T Hacks Team" style="width: 32%; border-radius: 10px;" />
-        <img src="https://firebasestorage.googleapis.com/v0/b/ugiygoji.appspot.com/o/WhatsApp%20Image%202025-02-22%20at%2011.11.57%20AM%20(1).jpeg?alt=media&token=8452d4e9-df8f-4b43-93c0-64861f393ba5" alt="S.P.I.T Hacks Trophy" style="width: 22%; border-radius: 10px;height: 140px" />
+        <img src="https://lh3.googleusercontent.com/d/1fHqOpA2sSlN9yfyvraV1xvPy_MVV8ZZT" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="https://lh3.googleusercontent.com/d/1p10d3CLjzoroIb7u8siM9EG0XE--jbvd" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="https://lh3.googleusercontent.com/d/1Oe2Qj6FZ-MgrIvylAZKJxPJj-YScdNXz" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
       </div>
     </td>
     <td>
@@ -101,7 +88,7 @@
         </p>
         <div>
           <a href="https://www.linkedin.com/posts/slayde-sequeira-062660221_hackathon-techinnovation-startup-activity-7294664633070583808-LPGG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADfNvkoB2csgq_RO3DhjTGuhtTAZnWiY7kQ">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"style="width: 10%;"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="width: 10%;" />
           </a>
         </div>
       </div>
@@ -114,9 +101,9 @@
   <tr>
     <td width="60%">
       <div style="display: flex; justify-content: center; gap: 5px;">
-        <img src="https://firebasestorage.googleapis.com/v0/b/ugiygoji.appspot.com/o/WhatsApp%20Image%202025-02-22%20at%2012.13.08%20PM.jpeg?alt=media&token=6dc4d3b9-7afa-473a-90a0-bcdb437df2a1" alt="Ingenium 2.0 Winner Badge" style="width: 32%; border-radius: 10px;" />
-        <img src="https://firebasestorage.googleapis.com/v0/b/ugiygoji.appspot.com/o/WhatsApp%20Image%202025-02-22%20at%2012.14.10%20PM.jpeg?alt=media&token=acaaa4a9-87c7-40cb-b786-ec17224f719f" alt="Ingenium 2.0 Team" style="width: 32%; border-radius: 10px;" />
-        <img src="https://firebasestorage.googleapis.com/v0/b/ugiygoji.appspot.com/o/WhatsApp%20Image%202025-02-22%20at%2012.12.22%20PM.jpeg?alt=media&token=35a31ef3-c919-4816-83c1-5de1253edb77" alt="Ingenium 2.0 Trophy" style="width: 22%; border-radius: 10px; height: 140px;" />
+        <img src="https://lh3.googleusercontent.com/d/1p7yz4KjSTjp3Kvhkw9CyuA1XwYSK6f6t" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="https://lh3.googleusercontent.com/d/1Q-fm-H3AsZaj1vbekTQgdOToiKQIi5y2" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="https://lh3.googleusercontent.com/d/1mZEZGspO1kXQAAnOY9r3W0oKr0nQB7sq" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
       </div>
     </td>
     <td>
@@ -136,7 +123,46 @@
     </td>
   </tr>
 </table>
-<img src="https://github-profile-trophy.vercel.app/?username=SlaydeSequeira&theme=matrix&column=-1&title=MultiLanguage,Repositories,Stars,Commits,Followers,PullRequest,Experience,Issue&margin-w=4">
+
+<h3 align="center">🏆 Featured Achievement: HyperVerge Astral Cup Runner Up</h3>
+<table align="center">
+  <tr>
+    <td width="60%">
+      <div style="display: flex; justify-content: center; gap: 5px;">
+        <img src="https://drive.google.com/uc?export=view&id=1HWjkTmbqRnVuw1rUfSoLf4wjwqoTZPNo" alt="Astral Cup Winner Badge" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="https://drive.google.com/uc?export=view&id=1nB7y16MoLTCk5RP7nDWbNmU0S2Yc-jTX" alt="Astral Cup Team" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+      </div>
+    </td>
+    <td>
+      <div style="text-align: left; padding: 20px;">
+        <h3>🥈 Runner Up</h3>
+        <p>
+          <strong>Event:</strong> HyperVerge Astral Cup<br>
+          <strong>Category:</strong> Company Hackathon<br>
+          <strong>Location:</strong> HyperVerge, Bengaluru<br>
+        </p>
+        <div>
+          <a href="https://www.linkedin.com/posts/slayde-sequeira-062660221_hyperverge-hackathon-securityengineering-ugcPost-7405825696968863744-Eahw/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADfNvkoB2csgq_RO3DhjTGuhtTAZnWiY7kQ">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="width: 10%;" />
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+<div align="center" style="width: 200px; overflow: hidden;">
+  <a href="https://holopin.io/@slaydesequeira" target="_blank" rel="noreferrer">
+    <img src="https://holopin.me/slaydesequeira" alt="View my Holopin profile" style="width: auto; height: 100%; object-fit: cover;" />
+  </a>
+
+</div>
+<div align="center">
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slaydesequeira&show_icons=true&locale=en&layout=compact" alt="slaydesequeira" /></p>
+    <img src="https://github.com/SlaydeSequeira/SlaydeSequeira/blob/main/dist/snake.svg" alt="Snake animation" />
+</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SlaydeSequeira&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true"/>
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SlaydeSequeira&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
