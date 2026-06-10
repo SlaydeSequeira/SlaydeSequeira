@@ -174,7 +174,7 @@
 
   <a href="https://drive.google.com/uc?export=download&id=1ojfRsKpZsoLxh4kXIyqoD5p21f5jVV_B" target="_blank">
 
-   <img src="https://img.shields.io/badge/View%20Resume-1ACD55?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume" />
+   <img src="https://img.shields.io/badge/Download%20Resume-1ACD55?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume" />
 
   </a>
 
