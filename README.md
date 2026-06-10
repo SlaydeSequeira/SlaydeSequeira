@@ -6,7 +6,7 @@
 </div>
   <div align=center >
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1ACD55&center=true&width=435&lines=An+Android+and+Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1ACD55&center=true&width=1435&lines=A+Full+Stack+Developer+Working+At+Hyperverge" alt="Typing SVG" /></a>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=slaydesequeira&label=Profile%20views%20overall&color=FF0000&style=plastic&base=9728" alt="slaydesequeira" /> </p>
