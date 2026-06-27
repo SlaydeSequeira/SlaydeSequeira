@@ -87,7 +87,7 @@
           <strong>Location:</strong> Sardar Patel Institute of Technology, Mumbai<br>
         </p>
         <div>
-          <a href="https://www.linkedin.com/posts/slayde-sequeira-062660221_hackathon-techinnovation-startup-activity-7294664633070583808-LPGG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADfNvkoB2csgq_RO3DhjTGuhtTAZnWiY7kQ">
+          <a href="https://www.linkedin.com/posts/slayde-sequeira-062660221_hackathon-techinnovation-startup-ugcPost-7294664631170560000-wjY1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADfNvkoB2csgq_RO3DhjTGuhtTAZnWiY7kQ">
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="width: 10%;" />
           </a>
         </div>
