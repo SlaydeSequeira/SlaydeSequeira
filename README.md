@@ -11,7 +11,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=slaydesequeira&label=Profile%20views%20overall&color=FF0000&style=plastic&base=9728" alt="slaydesequeira" /> </p>
 
-<img align="right" alt="coding" width="400" src="dist/images/ChatGPT%20Image%20Jun%2010%2C%202026%2C%2012_29_26%20PM.png" />
+<img align="right" alt="coding" width="400" src="dist/images/ChatGPT_Image_Jun_10,_2026,_12_30_46_PM.png" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
