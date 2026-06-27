@@ -11,7 +11,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=slaydesequeira&label=Profile%20views%20overall&color=FF0000&style=plastic&base=9728" alt="slaydesequeira" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://drive.google.com/uc?export=view&id=1_idDBLvirPXNmjRd7FFvEJtF8ZzH4bxE" />
+<img align="right" alt="coding" width="400" src="dist/images/ChatGPT%20Image%20Jun%2010%2C%202026%2C%2012_29_26%20PM.png" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -45,9 +45,9 @@
   <tr>
     <td width="60%">
       <div style="display: flex; justify-content: center; gap: 5px;">
-        <img src="https://lh3.googleusercontent.com/d/1dR-1MoIRyc0bRLp3p3Kfi-C91I-30KeL" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
-        <img src="https://lh3.googleusercontent.com/d/1fQkpPCcTcjFpq0BsNnbzl5CB5QJRt0C-" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
-        <img src="https://lh3.googleusercontent.com/d/1itVk0jPz7tDG4EYUGE3UkT20VuM_7BCb" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="dist/images/IMG_20260610_120235.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="dist/images/IMG_20260610_120252.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="dist/images/IMG_20260610_120307.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
       </div>
     </td>
     <td>
@@ -73,9 +73,9 @@
   <tr>
     <td width="60%">
       <div style="display: flex; justify-content: center; gap: 5px;">
-        <img src="https://lh3.googleusercontent.com/d/1fHqOpA2sSlN9yfyvraV1xvPy_MVV8ZZT" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
-        <img src="https://lh3.googleusercontent.com/d/1p10d3CLjzoroIb7u8siM9EG0XE--jbvd" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
-        <img src="https://lh3.googleusercontent.com/d/1Oe2Qj6FZ-MgrIvylAZKJxPJj-YScdNXz" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="dist/images/IMG_20260610_120419.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="dist/images/IMG_20260610_120435.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="dist/images/IMG_20260610_120447.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
       </div>
     </td>
     <td>
@@ -101,9 +101,9 @@
   <tr>
     <td width="60%">
       <div style="display: flex; justify-content: center; gap: 5px;">
-        <img src="https://lh3.googleusercontent.com/d/1p7yz4KjSTjp3Kvhkw9CyuA1XwYSK6f6t" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
-        <img src="https://lh3.googleusercontent.com/d/1Q-fm-H3AsZaj1vbekTQgdOToiKQIi5y2" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
-        <img src="https://lh3.googleusercontent.com/d/1mZEZGspO1kXQAAnOY9r3W0oKr0nQB7sq" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="dist/images/IMG_20260610_120507.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="dist/images/IMG_20260610_120518.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="dist/images/IMG_20260610_120528.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
       </div>
     </td>
     <td>
@@ -129,8 +129,8 @@
   <tr>
     <td width="60%">
       <div style="display: flex; justify-content: center; gap: 5px;">
-        <img src="https://drive.google.com/uc?export=view&id=1HWjkTmbqRnVuw1rUfSoLf4wjwqoTZPNo" alt="Astral Cup Winner Badge" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
-        <img src="https://drive.google.com/uc?export=view&id=1nB7y16MoLTCk5RP7nDWbNmU0S2Yc-jTX" alt="Astral Cup Team" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="dist/images/IMG_20260610_120552.jpg" alt="Astral Cup Winner Badge" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="dist/images/IMG_20260610_120610.jpg" alt="Astral Cup Team" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
       </div>
     </td>
     <td>
@@ -172,7 +172,7 @@
 
 <div align="center">
 
-  <a href="https://drive.google.com/uc?export=download&id=1ojfRsKpZsoLxh4kXIyqoD5p21f5jVV_B" target="_blank">
+  <a href="dist/images/Slayde_Sequeira.pdf" target="_blank">
 
    <img src="https://img.shields.io/badge/Download%20Resume-1ACD55?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume" />
 
