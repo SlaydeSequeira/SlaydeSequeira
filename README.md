@@ -11,7 +11,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=slaydesequeira&label=Profile%20views%20overall&color=FF0000&style=plastic&base=9728" alt="slaydesequeira" /> </p>
 
-<img align="right" alt="coding" width="400" src="dist/images/ChatGPT_Image_Jun_10,_2026,_12_30_46_PM.png" />
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SlaydeSequeira/SlaydeSequeira/main/dist/images/ChatGPT%20Image%20Jun%2010%2C%202026%2C%2012_30_46%20PM.png" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -45,9 +45,9 @@
   <tr>
     <td width="60%">
       <div style="display: flex; justify-content: center; gap: 5px;">
-        <img src="dist/images/IMG_20260610_120235.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
-        <img src="dist/images/IMG_20260610_120252.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
-        <img src="dist/images/IMG_20260610_120307.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="https://raw.githubusercontent.com/SlaydeSequeira/SlaydeSequeira/main/dist/images/IMG_20260610_120235.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="https://raw.githubusercontent.com/SlaydeSequeira/SlaydeSequeira/main/dist/images/IMG_20260610_120252.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="https://raw.githubusercontent.com/SlaydeSequeira/SlaydeSequeira/main/dist/images/IMG_20260610_120307.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
       </div>
     </td>
     <td>
@@ -73,9 +73,9 @@
   <tr>
     <td width="60%">
       <div style="display: flex; justify-content: center; gap: 5px;">
-        <img src="dist/images/IMG_20260610_120419.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
-        <img src="dist/images/IMG_20260610_120435.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
-        <img src="dist/images/IMG_20260610_120447.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="https://raw.githubusercontent.com/SlaydeSequeira/SlaydeSequeira/main/dist/images/IMG_20260610_120419.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="https://raw.githubusercontent.com/SlaydeSequeira/SlaydeSequeira/main/dist/images/IMG_20260610_120435.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="https://raw.githubusercontent.com/SlaydeSequeira/SlaydeSequeira/main/dist/images/IMG_20260610_120447.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
       </div>
     </td>
     <td>
@@ -101,9 +101,9 @@
   <tr>
     <td width="60%">
       <div style="display: flex; justify-content: center; gap: 5px;">
-        <img src="dist/images/IMG_20260610_120507.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
-        <img src="dist/images/IMG_20260610_120518.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
-        <img src="dist/images/IMG_20260610_120528.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="https://raw.githubusercontent.com/SlaydeSequeira/SlaydeSequeira/main/dist/images/IMG_20260610_120507.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="https://raw.githubusercontent.com/SlaydeSequeira/SlaydeSequeira/main/dist/images/IMG_20260610_120518.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="https://raw.githubusercontent.com/SlaydeSequeira/SlaydeSequeira/main/dist/images/IMG_20260610_120528.jpg" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
       </div>
     </td>
     <td>
@@ -129,8 +129,8 @@
   <tr>
     <td width="60%">
       <div style="display: flex; justify-content: center; gap: 5px;">
-        <img src="dist/images/IMG_20260610_120552.jpg" alt="Astral Cup Winner Badge" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
-        <img src="dist/images/IMG_20260610_120610.jpg" alt="Astral Cup Team" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="https://raw.githubusercontent.com/SlaydeSequeira/SlaydeSequeira/main/dist/images/IMG_20260610_120552.jpg" alt="Astral Cup Winner Badge" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
+        <img src="https://raw.githubusercontent.com/SlaydeSequeira/SlaydeSequeira/main/dist/images/IMG_20260610_120610.jpg" alt="Astral Cup Team" width="150" height="150" style="object-fit: cover; border-radius: 10px;" />
       </div>
     </td>
     <td>
@@ -172,7 +172,7 @@
 
 <div align="center">
 
-  <a href="dist/images/Slayde_Sequeira.pdf" target="_blank">
+  <a href="https://github.com/SlaydeSequeira/SlaydeSequeira/raw/main/dist/images/Slayde_Sequeira.pdf" target="_blank">
 
    <img src="https://img.shields.io/badge/Download%20Resume-1ACD55?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume" />
 
